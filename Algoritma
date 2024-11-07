@@ -1,0 +1,5 @@
+# Algoritma Menara Hanoi
+Algoritma nya :  
+1. Pindahkan n-1 piringan dari tiang sumber ke tiang bantu.
+2. Pindahkan piringan terbesar (piringan ke-n) dari tiang sumber ke tiang tujuan.
+3. Pindahkan n-1 piringan dari tiang bantu ke tiang tujuan.
